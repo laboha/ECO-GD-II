@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ecohimpribor.ecogdmobile.app-mergeDebugResources-36:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\labon\\.gradle\\caches\\9.3.0\\transforms\\c2e4ba7fa86fb8af0bc722c3c4b388f8\\workspace\\transformed\\appcompat-1.7.0\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

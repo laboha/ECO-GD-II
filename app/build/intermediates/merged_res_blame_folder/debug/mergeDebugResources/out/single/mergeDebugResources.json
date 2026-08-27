@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-debug-38:\\layout_fragment_emulation.xml.flat",
+        "source": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-main-40:\\layout\\fragment_emulation.xml"
+    },
+    {
+        "merged": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-debug-38:\\drawable_bg_device_panel.xml.flat",
+        "source": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-main-40:\\drawable\\bg_device_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-debug-38:\\drawable_bg_input_field_small.xml.flat",
+        "source": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-main-40:\\drawable\\bg_input_field_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-debug-38:\\drawable_bg_status_pill.xml.flat",
+        "source": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-main-40:\\drawable\\bg_status_pill.xml"
+    },
+    {
+        "merged": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-debug-38:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-main-40:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-debug-38:\\layout_fragment_data.xml.flat",
+        "source": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-main-40:\\layout\\fragment_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-debug-38:\\layout_fragment_parameters.xml.flat",
+        "source": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-main-40:\\layout\\fragment_parameters.xml"
+    },
+    {
+        "merged": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-debug-38:\\drawable-nodpi_device_eco_gd.png.flat",
+        "source": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-main-40:\\drawable-nodpi\\device_eco_gd.png"
+    },
+    {
+        "merged": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-debug-38:\\drawable_ic_chevron_down.xml.flat",
+        "source": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-main-40:\\drawable\\ic_chevron_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-debug-38:\\layout_item_parameter.xml.flat",
+        "source": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-main-40:\\layout\\item_parameter.xml"
+    },
+    {
+        "merged": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-debug-38:\\layout_spinner_item_centered.xml.flat",
+        "source": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-main-40:\\layout\\spinner_item_centered.xml"
+    },
+    {
+        "merged": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-debug-38:\\drawable_bg_card.xml.flat",
+        "source": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-main-40:\\drawable\\bg_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-debug-38:\\drawable_bg_input_field.xml.flat",
+        "source": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-main-40:\\drawable\\bg_input_field.xml"
+    },
+    {
+        "merged": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-debug-38:\\drawable_bg_reading_pill.xml.flat",
+        "source": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-main-40:\\drawable\\bg_reading_pill.xml"
+    },
+    {
+        "merged": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-debug-38:\\drawable_ic_status_warning.xml.flat",
+        "source": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-main-40:\\drawable\\ic_status_warning.xml"
+    },
+    {
+        "merged": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-debug-38:\\drawable_bg_list_item.xml.flat",
+        "source": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-main-40:\\drawable\\bg_list_item.xml"
+    },
+    {
+        "merged": "com.ecohimpribor.ecogdmobile.app-debug-38:/layout_fragment_parameters.xml.flat",
+        "source": "com.ecohimpribor.ecogdmobile.app-main-40:/layout/fragment_parameters.xml"
+    },
+    {
+        "merged": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-debug-38:\\drawable_bg_led_dot.xml.flat",
+        "source": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-main-40:\\drawable\\bg_led_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-debug-38:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-main-40:\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-debug-38:\\layout_dialog_password.xml.flat",
+        "source": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-main-40:\\layout\\dialog_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-debug-38:\\drawable_bg_led_glow.xml.flat",
+        "source": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-main-40:\\drawable\\bg_led_glow.xml"
+    },
+    {
+        "merged": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-debug-38:\\drawable_ic_status_check.xml.flat",
+        "source": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-main-40:\\drawable\\ic_status_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-debug-38:\\drawable_ic_launcher.xml.flat",
+        "source": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-main-40:\\drawable\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-debug-38:\\drawable_ic_status_bell.xml.flat",
+        "source": "C:\\Users\\labon\\.gradle\\daemon\\9.3.0\\com.ecohimpribor.ecogdmobile.app-main-40:\\drawable\\ic_status_bell.xml"
+    }
+]

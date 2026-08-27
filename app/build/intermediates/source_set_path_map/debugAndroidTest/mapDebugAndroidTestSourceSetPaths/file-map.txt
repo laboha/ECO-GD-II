@@ -1,0 +1,4 @@
+com.ecohimpribor.ecogdmobile.test.app-androidTest-0 D:\ECO-GD_II_mobile\app\build\generated\res\resValues\androidTest\debug
+com.ecohimpribor.ecogdmobile.test.app-mergeDebugAndroidTestResources-1 D:\ECO-GD_II_mobile\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.ecohimpribor.ecogdmobile.test.app-mergeDebugAndroidTestResources-2 D:\ECO-GD_II_mobile\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.ecohimpribor.ecogdmobile.test.app-debugAndroidTest-3 D:\ECO-GD_II_mobile\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
